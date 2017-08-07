@@ -1,0 +1,10 @@
+body{
+  margin:0;
+  font: normal 16px Arial, Helvetica, sand-serif;
+  color:#ffffff;
+}
+
+#particles-js{
+  background: #000000;
+  height:400px;
+}
