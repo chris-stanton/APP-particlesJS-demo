@@ -13,7 +13,7 @@
         "color":"#ffffff"
       },
       "image":{
-        "src":"http://www.iconsdb.com/icons/preview/white/contacts-xxl.png"
+        "src":"../public/assets/images/favicon.ico"
       }
     },
     "opacity":{
@@ -35,7 +35,7 @@
     "line_linked":{
       "enable": true,
       "distance": 120,
-      "color":"#ffffff",
+      "color":"#ff0000",
       "width":1
     },
     "move":{
@@ -49,7 +49,7 @@
     "events":{
       "onhover":{
         "enable":true,
-        "mode":"repulse"
+        "mode":"bubble"
       },
       "onclick":{
         "enable": true,
@@ -63,7 +63,7 @@
       },
       "bubble":{
         "distance":100,
-        "size":15
+        "size":18
       }
     }
   }
