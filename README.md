@@ -24,7 +24,7 @@
 
 ## How To Install App
   1. Download zip file
-  2. Open index.html file in browser (must be open with server or on localhost is using Particles JSON file)
+  2. Open index.html file in browser (must be open with server or on localhost if using Particles JSON file)
 
 ---
 
