@@ -1,6 +1,6 @@
 
-console.log("client.js working");
+console.log("client.js loaded...");
 
-particlesJS.load('particles-js', 'particles.json', function(){
+particlesJS.load('particles-js', '../particles.json', function(){
   console.log('particles.json loaded...');
 });
